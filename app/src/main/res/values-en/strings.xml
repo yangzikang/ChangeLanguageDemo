@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">changeLanguage</string>
+    <string name="hello_world">hello world</string>
+    <string name="select_language">select a Language</string>
+    <string name="to_next_page">to_next_page</string>
+</resources>

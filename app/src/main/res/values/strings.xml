@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">改语言</string>
+    <string name="hello_world">你好世界</string>
+    <string name="select_language">选语言</string>
+    <string name="to_next_page">下一页</string>
+</resources>
